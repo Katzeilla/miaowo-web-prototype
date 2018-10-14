@@ -1,7 +1,19 @@
-#status-icon {
+#status-icon-online {
 	padding-bottom: 3px;
 	font-size: 10px;
 	color: green;
+}
+
+#status-icon-left {
+	padding-bottom: 3px;
+	font-size: 10px;
+        color: #ff6d00;
+}
+
+#status-icon-hidden {
+	padding-bottom: 3px;
+	font-size: 10px;
+	color: grey;
 }
 
 #avatar {
