@@ -26,6 +26,11 @@
 .miaowo-card-info {
 	padding-left: 10px;
 }
+
+.miaowo-button-group {
+	padding-left: 40px;
+}	
+
 .unread-count {
 	text-align: right;
 }
