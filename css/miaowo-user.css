@@ -10,3 +10,9 @@
 .unread-count {
 	text-align: right;
 }
+
+#text-nav {
+        margin-left: 18px;
+        margin-top: -15px;
+}
+
