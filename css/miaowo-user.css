@@ -6,3 +6,7 @@
 #avatar {
 	border-radius: 5%;
 }
+
+.unread-count {
+	text-align: right;
+}
