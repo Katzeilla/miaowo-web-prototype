@@ -45,3 +45,12 @@
         padding: 0px;
         width: 130px;
 }
+
+/*
+ * hide scrollbar 
+ */
+
+#main-drawer {
+        overflow-y: hidden;
+}
+
