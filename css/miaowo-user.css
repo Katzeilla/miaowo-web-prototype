@@ -71,9 +71,12 @@
  * hide scrollbar 
  */
 
-#main-drawer {
-        overflow-y: hidden;
-}
+
+/*	
+ *#main-drawer {
+ *        overflow-y: hidden;
+ *}
+ */
 
 .content-container {
 	padding-top: 15px;
